@@ -13,8 +13,7 @@ const Hero = () => {
             Bring everyone together to build better products
           </h1>
           <p className='max-w-sm text-center text-darkGrayishBlue md:text-left'>
-            Manage makes it simple for software teams to plan day-to-day tasks
-            while keeping the larger team goals in view.
+          Manage streamlines the process of planning daily tasks for software teams while maintaining a clear focus on overarching team goals and long-term objectives.
           </p>
           <div className='flex justify-center md:justify-start'>
             <Link
