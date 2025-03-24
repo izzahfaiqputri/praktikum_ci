@@ -47,6 +47,16 @@ const Testimonial = () => {
               everyone motivated.”
             </p>
           </div>
+
+            {/* Testimonial 3 */}
+            <div className='hidden flex-col items-center p-6 space-y-6 rounded-lg bg-veryLightGray md:flex md:w-1/3'>
+              <img src={avatarRichard} className='w-16 -mt-14' alt='' />
+              <h5 className='text-lg font-bold'>William Carter</h5>
+              <p className='text-sm text-darkGrayishBlue'>
+              “Manage has transformed our team's workflow, providing clear oversight on key milestones and fostering ongoing motivation”
+            </p>
+          </div>
+
         </div>
         {/* Button */}
         <div className='my-16'>
